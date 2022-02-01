@@ -1,0 +1,388 @@
+<!doctype html>
+<html oncontextmenu="self.event.returnValue=false" onselectstart="return false" data-darkreader-mode="dynamic" data-darkreader-scheme="dark"><head><style class="darkreader darkreader--fallback" media="screen"></style><style class="darkreader darkreader--text" media="screen"></style><style class="darkreader darkreader--invert" media="screen">.jfk-bubble.gtx-bubble, .captcheck_answer_label > input + img, span#closed_text > img[src^="https://www.gstatic.com/images/branding/googlelogo"], span[data-href^="https://www.hcaptcha.com/"] > #icon, #bit-notification-bar-iframe, ::-webkit-calendar-picker-indicator {
+    filter: invert(100%) hue-rotate(180deg) brightness(150%) sepia(30%) !important;
+}</style><style class="darkreader darkreader--inline" media="screen">[data-darkreader-inline-bgcolor] {
+  background-color: var(--darkreader-inline-bgcolor) !important;
+}
+[data-darkreader-inline-bgimage] {
+  background-image: var(--darkreader-inline-bgimage) !important;
+}
+[data-darkreader-inline-border] {
+  border-color: var(--darkreader-inline-border) !important;
+}
+[data-darkreader-inline-border-bottom] {
+  border-bottom-color: var(--darkreader-inline-border-bottom) !important;
+}
+[data-darkreader-inline-border-left] {
+  border-left-color: var(--darkreader-inline-border-left) !important;
+}
+[data-darkreader-inline-border-right] {
+  border-right-color: var(--darkreader-inline-border-right) !important;
+}
+[data-darkreader-inline-border-top] {
+  border-top-color: var(--darkreader-inline-border-top) !important;
+}
+[data-darkreader-inline-boxshadow] {
+  box-shadow: var(--darkreader-inline-boxshadow) !important;
+}
+[data-darkreader-inline-color] {
+  color: var(--darkreader-inline-color) !important;
+}
+[data-darkreader-inline-fill] {
+  fill: var(--darkreader-inline-fill) !important;
+}
+[data-darkreader-inline-stroke] {
+  stroke: var(--darkreader-inline-stroke) !important;
+}
+[data-darkreader-inline-outline] {
+  outline-color: var(--darkreader-inline-outline) !important;
+}
+[data-darkreader-inline-stopcolor] {
+  stop-color: var(--darkreader-inline-stopcolor) !important;
+}</style><style class="darkreader darkreader--variables" media="screen">:root {
+   --darkreader-neutral-background: #000000;
+   --darkreader-neutral-text: #ffffff;
+   --darkreader-selection-background: #006df8;
+   --darkreader-selection-text: #ffffff;
+}</style><style class="darkreader darkreader--root-vars" media="screen"></style><style class="darkreader darkreader--user-agent" media="screen">html {
+    background-color: #000000 !important;
+}
+html, body, input, textarea, select, button {
+    background-color: #000000;
+}
+html, body, input, textarea, select, button {
+    border-color: #d1bc99;
+    color: #ffffff;
+}
+a {
+    color: #83ffff;
+}
+table {
+    border-color: #8f948e;
+}
+::placeholder {
+    color: #ffffff;
+}
+input:-webkit-autofill,
+textarea:-webkit-autofill,
+select:-webkit-autofill {
+    background-color: #858a00 !important;
+    color: #ffffff !important;
+}
+::-webkit-scrollbar {
+    background-color: #0b0f10;
+    color: #ffffff;
+}
+::-webkit-scrollbar-thumb {
+    background-color: #696c69;
+}
+::-webkit-scrollbar-thumb:hover {
+    background-color: #979c96;
+}
+::-webkit-scrollbar-thumb:active {
+    background-color: #717572;
+}
+::-webkit-scrollbar-corner {
+    background-color: #000000;
+}
+::selection {
+    background-color: #006df8 !important;
+    color: #ffffff !important;
+}
+::-moz-selection {
+    background-color: #006df8 !important;
+    color: #ffffff !important;
+}</style>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src="https://hm.baidu.com/hm.js?8c0854c37b23b617c441acb65529fca1"></script><script type="text/javascript" src="source/js/header.js"></script><!-----------  公共js和css start-----------><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/bynotes/texiao/source/css/shubiao.css"><style class="darkreader darkreader--cors" media="screen">body {
+    cursor: url("https://cdn.jsdelivr.net/gh/bynotes/texiao/source/img/a11.cur"), auto;
+}
+
+
+
+
+a:hover {
+    cursor: url("https://cdn.jsdelivr.net/gh/bynotes/texiao/source/img/a22.cur"), auto;
+}
+
+
+
+
+button:hover {
+    cursor: url("https://cdn.jsdelivr.net/gh/bynotes/texiao/source/img/a22.cur"), auto;
+}
+
+#rightside>div>button,
+#rightside>div>a {
+    display: block;
+    margin-bottom: 2px;
+    width: 30px;
+    height: 30px;
+    color: var(--btn-color);
+    text-align: center;
+    font-size: 16px;
+    cursor: url("https://cdn.jsdelivr.net/gh/bynotes/texiao/source/img/a22.cur"), auto;
+}
+
+
+
+
+.layout_post .tag_share .post-meta__tags {
+    cursor: url("https://cdn.jsdelivr.net/gh/bynotes/texiao/source/img/a22.cur"), auto;
+}
+
+
+
+
+.vcol * {
+    cursor: url("https://cdn.jsdelivr.net/gh/bynotes/texiao/source/img/a22.cur"), auto;
+}
+
+.v[data-class=v] .vicon {
+    cursor: url("https://cdn.jsdelivr.net/gh/bynotes/texiao/source/img/a22.cur"), auto;
+}
+
+.v[data-class=v] .vbtn {
+    cursor: url("https://cdn.jsdelivr.net/gh/bynotes/texiao/source/img/a22.cur"), auto;
+}
+
+
+
+
+.vat {
+    cursor: url("https://cdn.jsdelivr.net/gh/bynotes/texiao/source/img/a22.cur"), auto;
+}
+
+
+
+
+i:hover {
+    cursor: url("https://cdn.jsdelivr.net/gh/bynotes/texiao/source/img/a22.cur"), auto;
+}
+
+
+
+
+#upj:hover {
+    cursor: url("https://cdn.jsdelivr.net/gh/bynotes/texiao/source/img/a22.cur"), auto;
+}
+
+
+
+
+
+#pagination .page-number:hover {
+    cursor: url("https://cdn.jsdelivr.net/gh/bynotes/texiao/source/img/a22.cur"), auto;
+}
+
+.space {
+    color: #00c4b6;
+}</style><style class="darkreader darkreader--sync" media="screen"></style>
+<link rel="stylesheet" href="https://at.alicdn.com/t/font_2037988_8uzxiubtutg.css" type="text/css"><style class="darkreader darkreader--cors" media="screen">.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.iconicon-arrow-left2:before {
+  content: "\e60a";
+}
+
+.iconchilun:before {
+  content: "\e634";
+}
+
+.iconwenzhang:before {
+  content: "\e612";
+}
+
+.iconsetting:before {
+  content: "\e609";
+}
+
+.iconadmin:before {
+  content: "\e648";
+}
+
+.icona-wenzhang1:before {
+  content: "\e627";
+}
+
+.iconbianjian:before {
+  content: "\e608";
+}
+
+.iconxiangmu:before {
+  content: "\e623";
+}
+
+.iconxiangmu1:before {
+  content: "\e615";
+}
+
+.iconbianqian:before {
+  content: "\e7c3";
+}
+
+.iconbianjian1:before {
+  content: "\e671";
+}
+
+.iconjinghao:before {
+  content: "\e64f";
+}
+
+.icontv:before {
+  content: "\e7c0";
+}
+
+.icontv-copy:before {
+  content: "\e600";
+}
+
+.iconvideo:before {
+  content: "\e920";
+}
+
+.iconshipin:before {
+  content: "\e605";
+}
+
+.icontvkaobei:before {
+  content: "\e668";
+}
+
+.icontv1:before {
+  content: "\e616";
+}
+
+.icondianshizhiboguankanshipinbofangmeiti:before {
+  content: "\e604";
+}
+
+.iconqq:before {
+  content: "\e635";
+}
+
+.iconwe-chat:before {
+  content: "\e887";
+}
+
+.icontwitter:before {
+  content: "\e629";
+}
+
+.iconbilibili1:before {
+  content: "\e607";
+}
+
+.icongithub:before {
+  content: "\e631";
+}
+
+.iconicon:before {
+  content: "\e602";
+}
+
+.icontalk:before {
+  content: "\e676";
+}
+
+.iconzhemoshuocopyx:before {
+  content: "\e617";
+}
+
+.icontalk1:before {
+  content: "\e81a";
+}
+
+.icontalk2:before {
+  content: "\e603";
+}
+
+.iconbilibili:before {
+  content: "\e601";
+}
+
+.iconicon-codemao2:before {
+  content: "\e606";
+}</style><style class="darkreader darkreader--sync" media="screen"></style>
+<script>var _hmt = _hmt || [];(function() {var hm = document.createElement("script");hm.src = "https://hm.baidu.com/hm.js?8c0854c37b23b617c441acb65529fca1";var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(hm, s);})();</script>
+<link rel="apple-touch-icon" sizes="76x76" href="https://cdn.jsdelivr.net/gh/ye-tutu/blog-cdn@main/picture/1636434330000.png">
+<link rel="shortcut icon" href="https://cdn.jsdelivr.net/gh/ye-tutu/blog-cdn@main/picture/1636434330000.png" type="image/x-png">
+<link rel="stylesheet" href="source/css/mystyle.css"><style class="darkreader darkreader--sync" media="screen"></style>
+
+    <title>关于我 - 龙杰的个人主页</title>
+<meta name="darkreader" content="0f3dbd16c5674a9b8103b66496443263"><style class="darkreader darkreader--override" media="screen">.vimvixen-hint {
+    background-color: #c58000 !important;
+    border-color: #ffff48 !important;
+    color: #ffffff !important;
+}
+::placeholder {
+    opacity: 0.5 !important;
+}
+a[href="https://coinmarketcap.com/"] > svg[width="94"][height="16"] > path {
+    fill: var(--darkreader-neutral-text) !important;
+}
+#edge-translate-panel-body {
+    color: var(--darkreader-neutral-text) !important;
+}
+gr-main-header {
+    background-color: #003f51 !important;
+}
+embed[type="application/pdf"] { filter: invert(100%) contrast(90%); }</style></head>
+<body>
+    <noscript> <iframe src="*.htm"></iframe> </noscript>
+    <script language="JavaScript">
+        document.oncontextmenu = nocontextmenu;
+        document.onmousedown = norightclick;
+        document.ondragstart = noDragstart;
+        document.onselectstart = noSelect;
+        document.onselect = document.selection.empty();
+        document.onkeydown = keyDown;
+    </script>
+    <div class="change" id="card">
+        <a style="padding:2%;" href="/"><img class="change" id="favorite" style="float:left;zoom:20%;margin-top:-75px;margin-left:-75px;" src="https://cdn.jsdelivr.net/gh/ye-tutu/blog-cdn@main/picture/1636434251000.jpg"></a>
+        <div style="padding:1%;float:left;"><b style="font-size:150%;">关于<br></b>About</div>
+        
+        <br><br><br>
+        <div style="padding:3%;">
+            <p style="float:left;padding-right:25%;">
+                一个只会看，不会做的学生党<br><br>
+
+                破壳日：2009/8/17<br>
+                年龄：12｜初一<br>
+                十六型人格测试 -&nbsp;<a target="_blank" rel="noopener" class="post_links" href="https://www.16personalities.com/ch/infp-%E4%BA%BA%E6%A0%BC">调停者</a><br>
+                8项价值观政治测试 - 左翼民粹主义<br><br>
+
+                QQ：2863970084<br>
+                邮箱：S2863970084@outlook.com<br>
+                微信：yulongjie20191220  
+            </p><p>
+            </p><div style="float:top right;padding-left:20%;">
+                <p>Python</p>
+                <progress value="70" max="100"></progress>
+                <p>HTML</p>
+                <progress value="20" max="100"></progress>
+                <p>CSS</p>
+                <progress value="10" max="100"></progress>
+            </div>
+    
+        </div>
+        <a style="padding:2%;" href="/"><i class="iconfont iconicon-arrow-left2">返回</i></a>
+        <br>
+        <br>
+    </div>
+    <footer id="footer">
+        <script type="text/javascript" src="source/js/footer.js"></script><!-----------  footer-----------><center>
+<p style="color: rgb(51, 51, 51); --darkreader-inline-color:#ffffff;" data-darkreader-inline-color="">© 2021 Computer Killer Office 龙杰</p>
+</center>
+
+    </footer>
+
+
+
+</body></html>
